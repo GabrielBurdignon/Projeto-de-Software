@@ -1,1 +1,3 @@
-# Projeto-de-Software
+# Projeto de Software
+
+Nome: Gabriel Burdignon
